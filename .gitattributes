@@ -1,0 +1,19 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-eng-ita.eng-ita.dix -text
+/apertium-eng-ita.eng-ita.lrx -text
+/apertium-eng-ita.eng-ita.t1x -text
+/apertium-eng-ita.eng-ita.t2x -text
+/apertium-eng-ita.eng-ita.t3x -text
+/apertium-eng-ita.ita-eng.lrx -text
+/apertium-eng-ita.ita-eng.t1x -text
+/apertium-eng-ita.ita-eng.t2x -text
+/apertium-eng-ita.ita-eng.t3x -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text svneol=unset#application/xml
