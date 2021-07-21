@@ -1,0 +1,30 @@
+[-cAUvvtiKZk0#0] ^9<num><percent>$
+[/-cAUvvtiKZk0]
+[0DUCxD10owuT#0] ^,<cm>$
+[/0DUCxD10owuT]
+[7Fd75JvWG8EP#0] ^So much<adv>$
+[/7Fd75JvWG8EP]
+[Jl_aF6NGEbFT#0] ^'<apos>$
+[/Jl_aF6NGEbFT]
+[Me9QgIGjottf#0] ^Near<pr>$ ^the<det><def><sp>$
+[/Me9QgIGjottf]
+[QbgF6nrAFOI1#0] ^;<sent>$
+[/QbgF6nrAFOI1]
+[TgdAhWK-24tg#0] ^3<num>$
+[/TgdAhWK-24tg]
+[ZcdMFaaGGHu2#0] ^Or<cnjcoo>$
+[/ZcdMFaaGGHu2]
+[eJ8fK0hqz_ph#0] ^*sntetnsgtaii$
+[/eJ8fK0hqz_ph]
+[flqJ3bQb8nhe#0] ^Inside<pr>$ ^the<det><def><sp>$
+[/flqJ3bQb8nhe]
+[gReGrRrnSt_d#0] ^45<num>$
+[/gReGrRrnSt_d]
+[pTYMSDncO1nh#0] ^9.9<num><percent>$
+[/pTYMSDncO1nh]
+[x1b6LJwTPjgS#0] ^2,87<num><percent>$
+[/x1b6LJwTPjgS]
+[zLoNM6Gt439l#0] ^This<det><dem><sg>$
+[/zLoNM6Gt439l]
+[zbTuKuppzGqD#0] ^.<sent>$
+[/zbTuKuppzGqD]

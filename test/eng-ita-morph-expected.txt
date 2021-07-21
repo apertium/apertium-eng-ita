@@ -1,0 +1,26 @@
+[--ekMkfDrmS6#0] ^’/'<apos>/'s<gen>$
+[/--ekMkfDrmS6]
+[-ACYWI-yfBDB#0] ^Essngtletcp/*Essngtletcp$
+[/-ACYWI-yfBDB]
+[2xTE_J-occPf#0] ^hadn’t/have<vbhaver><past>+not<adv>$
+[/2xTE_J-occPf]
+[CznxGJYfsm85#0] ^W/*W$^./.<sent>$ ^inu/*inu$
+[/CznxGJYfsm85]
+[EssWRZQSPmwx#0] ^Félnm/*Félnm$
+[/EssWRZQSPmwx]
+[Ldba0I9-ziTr#0] ^isn't/be<vbser><pres><p3><sg>+not<adv>$
+[/Ldba0I9-ziTr]
+[QbgF6nrAFOI1#0] ^;/;<sent>$
+[/QbgF6nrAFOI1]
+[Rxqcbdo0JyBJ#0] ^wasnʼt/be<vbser><past><p1><sg>+not<adv>/be<vbser><past><p3><sg>+not<adv>$
+[/Rxqcbdo0JyBJ]
+[VIIYzDtYUE6s#0] ^ʼs/'s<gen>/be<vbser><pres><p3><sg>/have<vbhaver><pres><p3><sg>$
+[/VIIYzDtYUE6s]
+[Yx7iL1SUy_3h#0] ^he'd/prpers<prn><subj><p3><m><sg>+have<vbhaver><past>$
+[/Yx7iL1SUy_3h]
+[bbXNqfhs5XW9#0] ^mesmrrisadittace/*mesmrrisadittace$
+[/bbXNqfhs5XW9]
+[io3oI9XtPhJ0#0] ^?/?<sent>$
+[/io3oI9XtPhJ0]
+[nlfCsJpPnHLu#0] ^easteyoese/*easteyoese$
+[/nlfCsJpPnHLu]

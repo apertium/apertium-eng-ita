@@ -1,0 +1,10 @@
+{
+    "eng-ita": {
+        "input": "eng-ita-input.txt",
+        "mode": "eng-ita"
+    },
+    "ita-eng": {
+        "input": "ita-eng-input.txt",
+        "mode": "ita-eng"
+    }
+}

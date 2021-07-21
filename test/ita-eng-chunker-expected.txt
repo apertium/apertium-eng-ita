@@ -1,0 +1,30 @@
+[-cAUvvtiKZk0#0] ^Num<SN>{^9<num><percent>$}$
+[/-cAUvvtiKZk0]
+[0DUCxD10owuT#0] ^coma<cm>{^,<cm>$}$
+[/0DUCxD10owuT]
+[7Fd75JvWG8EP#0] ^Adv<adv>{^so much<adv>$}$
+[/7Fd75JvWG8EP]
+[Jl_aF6NGEbFT#0] ^default<default>{^'<apos>$}$
+[/Jl_aF6NGEbFT]
+[Me9QgIGjottf#0] ^Pr<PREP>{^near<pr>$}$ ^det<DET><mf><sp>{^the<det><def><3>$}$
+[/Me9QgIGjottf]
+[QbgF6nrAFOI1#0] ^punt<sent>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[TgdAhWK-24tg#0] ^Num<SN>{^3<num>$}$
+[/TgdAhWK-24tg]
+[ZcdMFaaGGHu2#0] ^Cnj<cnjcoo>{^or<cnjcoo>$}$
+[/ZcdMFaaGGHu2]
+[eJ8fK0hqz_ph#0] ^unknown<unknown>{^*sntetnsgtaii$}$
+[/eJ8fK0hqz_ph]
+[flqJ3bQb8nhe#0] ^Pr<PREP>{^inside<pr>$}$ ^det<DET><mf><sp>{^the<det><def><3>$}$
+[/flqJ3bQb8nhe]
+[gReGrRrnSt_d#0] ^Num<SN>{^45<num>$}$
+[/gReGrRrnSt_d]
+[pTYMSDncO1nh#0] ^Num<SN>{^9.9<num><percent>$}$
+[/pTYMSDncO1nh]
+[x1b6LJwTPjgS#0] ^Num<SN>{^2,87<num><percent>$}$
+[/x1b6LJwTPjgS]
+[zLoNM6Gt439l#0] ^Det<DET><mf><sg>{^this<det><dem><3>$}$
+[/zLoNM6Gt439l]
+[zbTuKuppzGqD#0] ^punt<sent>{^.<sent>$}$
+[/zbTuKuppzGqD]

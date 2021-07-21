@@ -1,0 +1,26 @@
+[--ekMkfDrmS6#0] ^default<default>{^'<apos>$}$
+[/--ekMkfDrmS6]
+[-ACYWI-yfBDB#0] ^unknown<unknown>{^*Essngtletcp$}$
+[/-ACYWI-yfBDB]
+[2xTE_J-occPf#0] ^Verbcj<SV><vbhaver><ifi><PD><ND>{^avere<vbhaver><3><4><5>$}$ ^adv<adv><NEG>{^non<adv>$}$
+[/2xTE_J-occPf]
+[CznxGJYfsm85#0] ^unknown<unknown>{^*W$}$^punt<sent>{^.<sent>$}$ ^unknown<unknown>{^*inu$}$
+[/CznxGJYfsm85]
+[EssWRZQSPmwx#0] ^unknown<unknown>{^*Félnm$}$
+[/EssWRZQSPmwx]
+[Ldba0I9-ziTr#0] ^adv<adv><NEG>{^non<adv>$}$ ^be<Vcop><vbser><pri><PD><ND>{^essere<vbser><3><4><5>$}$
+[/Ldba0I9-ziTr]
+[QbgF6nrAFOI1#0] ^punt<sent>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[Rxqcbdo0JyBJ#0] ^adv<adv><NEG>{^non<adv>$}$ ^be<Vcop><vbser><ifi><PD><sg>{^essere<vbser><3><4><5>$}$
+[/Rxqcbdo0JyBJ]
+[VIIYzDtYUE6s#0] ^default<default>{^avere<vbhaver><pres><p3><sg>$}$
+[/VIIYzDtYUE6s]
+[Yx7iL1SUy_3h#0] ^prnsubj<SN><tn><p3><m><sg>{^prpers<prn><2><p3><4><sg>$}$ ^verbcj<SV><vbhaver><ifi><PD><ND>{^avere<vbhaver><3><4><5>$}$
+[/Yx7iL1SUy_3h]
+[bbXNqfhs5XW9#0] ^unknown<unknown>{^*mesmrrisadittace$}$
+[/bbXNqfhs5XW9]
+[io3oI9XtPhJ0#0] ^punt<sent>{^?<sent>$}$
+[/io3oI9XtPhJ0]
+[nlfCsJpPnHLu#0] ^unknown<unknown>{^*easteyoese$}$
+[/nlfCsJpPnHLu]

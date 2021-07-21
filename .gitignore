@@ -30,3 +30,13 @@
 /ita-eng.t3x.bin
 /missing
 /modes
+/*.hfst
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/*.mode
+/.deps
+/config.in
+/config
+/test/*-output.txt
